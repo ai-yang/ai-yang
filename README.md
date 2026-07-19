@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0EA5E9,100:14B8A6&height=210&section=header&text=Rui%20Wang&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Builder%20%C2%B7%20Open-Source%20Developer%20%C2%B7%20Agentic%20Systems%20Explorer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0EA5E9,100:14B8A6&height=210&section=header&text=Reece%20Wong&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Builder%20%C2%B7%20Open-Source%20Developer%20%C2%B7%20Agentic%20Systems%20Explorer&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=AI+Builder+%40+Zhejiang+University;Building+Agentic+Systems+%26+AI+Infrastructure;Creator+of+AlphaPilot;Turning+Tokens+into+Tools" alt="Typing SVG" />
 
