@@ -26,28 +26,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-```python
-rui = {
-    "education": "Artificial Intelligence @ Zhejiang University",
-    "current": "Engineering & Algorithm Intern @ Alibaba Taobao & Tmall Group",
-    "identity": [
-        "AI Builder",
-        "Open-Source Developer",
-        "INTJ",
-    ],
-    "building": "AlphaPilot",
-    "focus": [
-        "Agentic Reinforcement Learning",
-        "LLM Systems & AI Infrastructure",
-        "AI Agents and Tool Use",
-        "AI × Quantitative Research",
-    ],
-    "daily_routine": "Turning an unreasonable number of tokens into working prototypes",
-    "motto": "Think boldly. Build quickly. Open source what matters.",
-}
-```
-
 I enjoy turning ambitious ideas into systems that actually run—from model experiments and multi-agent workflows to backend services, deployment infrastructure and user-facing products.
 
 I believe future software will increasingly be operated through AI. Instead of learning every complicated interface, users will describe their goals, while agents select tools, execute workflows and iteratively improve the results.
