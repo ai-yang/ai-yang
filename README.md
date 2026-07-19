@@ -147,51 +147,6 @@ I am currently exploring:
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,rust,ts,react,fastapi,docker,linux,git,nginx,sqlite&perline=6" alt="Tech Stack" />
-
-</div>
-
-### Languages
-
-`Python` · `C/C++` · `TypeScript` · `SQL` · Learning `Rust`
-
-### AI & Machine Learning
-
-`PyTorch` · `Transformers` · `LangChain` · `Qlib`
-`Scikit-learn` · `XGBoost` · `CatBoost`
-
-### Backend & Infrastructure
-
-`FastAPI` · `Docker` · `Linux` · `Git`
-`Nginx` · `SQLite` · `Conda` · Multi-GPU Environments
-
-### Frontend & Visualization
-
-`React` · `Vite` · `Plotly` · `Gradio` · `Streamlit`
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-yang&theme=tokyonight" alt="GitHub Profile Summary" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-yang&theme=tokyonight" alt="Repos per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-yang&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-
-</div>
-
----
-
 ## 🤝 Let's Build Something Interesting
 
 I am interested in collaborating on:
