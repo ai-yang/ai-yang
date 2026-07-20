@@ -4,21 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=AI+Builder+%40+Zhejiang+University;Building+Agentic+Systems+%26+AI+Infrastructure;Creator+of+AlphaPilot;Turning+Tokens+into+Tools" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/ai-yang">
-    <img src="https://komarev.com/ghpvc/?username=ai-yang&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/ai-yang?tab=followers">
-    <img src="https://img.shields.io/github/followers/ai-yang?label=Followers&style=flat-square&color=0EA5E9" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/ai-yang?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ai-yang?affiliations=OWNER&style=flat-square&color=14B8A6" alt="GitHub Stars" />
-  </a>
-  <a href="mailto:ruiwong@zju.edu.cn">
-    <img src="https://img.shields.io/badge/Email-ruiwong%40zju.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ### Building systems where AI can reason, use tools, run experiments and create real-world value.
 
 </div>
