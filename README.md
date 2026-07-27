@@ -100,16 +100,6 @@ AI × Quant              Multi-Agent Collaboration
 Reliable AI Systems     Open-Source Engineering
 ```
 
-I am currently exploring:
-
-`OpenRLHF` · `vLLM` · `Ray` · `DeepSpeed` · `FSDP` · `LoRA` · `QLoRA`
-
-`PPO` · `GRPO` · `RLOO` · `REINFORCE++`
-
-`Qlib` · `LLM Tool Use` · `Agent Skills` · `Multi-Agent Workflows`
-
----
-
 ## 🤝 Let's Build Something Interesting
 
 I am interested in collaborating on:
