@@ -67,28 +67,6 @@ I am also exploring how reinforcement learning can improve agents that interact 
 
 ---
 
-## 🚀 Featured Open-Source Projects
-
-<div align="center">
-
-<a href="https://github.com/ai-yang/AlphaPilot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-yang&repo=AlphaPilot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AlphaPilot" />
-</a>
-<a href="https://github.com/ai-yang/AlphaPilotArena">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-yang&repo=AlphaPilotArena&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AlphaPilotArena" />
-</a>
-
-</div>
-
-| Project                                                                       | Description                                                                           |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [**AlphaPilot**](https://github.com/ai-yang/AlphaPilot)                       | LLM-driven quantitative research, backtesting and controlled trading platform         |
-| [**AlphaPilotArena**](https://github.com/ai-yang/AlphaPilotArena)             | Mobile-first public testing platform for factor hypotheses and standardized backtests |
-| [**AlphaPilotArenaWorker**](https://github.com/ai-yang/AlphaPilotArenaWorker) | Isolated worker and runner infrastructure for quantitative research tasks             |
-| [**AgenticRL_P**](https://github.com/ai-yang/AgenticRL_P)                     | Experiments and practice around Agentic Reinforcement Learning                        |
-| [**GFPCC**](https://github.com/ai-yang/GFPCC)                                 | Federated learning and graph-based proactive caching research                         |
-
----
 
 ## 🔬 Current Interests
 
@@ -110,7 +88,6 @@ I am interested in collaborating on:
 * Quantitative research systems
 * High-performance AI serving
 * Open-source projects with real users
-* Ambitious and slightly crazy hackathon ideas
 
 For me, open source is more than publishing code. It is a way to document ideas, make experiments reproducible, learn in public and build things that can continue growing beyond a single developer.
 
