@@ -17,6 +17,15 @@ I believe future software will increasingly be operated through AI. Instead of l
 
 ---
 
+## 💼 Internship Experience
+
+| Company | Role | Period |
+| :--- | :--- | :--- |
+| <img src="assets/zhipu.png" width="28" height="28" alt="Zhipu AI logo" /> &nbsp; [**Zhipu AI (智谱)**](https://www.zhipuai.cn/) | Intern | **2026.09 – Present** |
+| <img src="assets/taobao.png" width="28" height="28" alt="Taobao logo" /> &nbsp; [**Taobao (淘宝)**](https://www.taobao.com/) | Intern | 2025.12 – 2026.09 |
+
+---
+
 ## 🚧 What I'm Building
 
 ### 🧭 AlphaPilot
